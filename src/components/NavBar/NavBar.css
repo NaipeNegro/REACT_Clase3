@@ -4,12 +4,11 @@
     justify-content: space-between;
     padding: 1%;
     color: #D01012;
-
 }
 
-.nav-logo{
+/* .nav-logo{
     
-}
+} */
 
 .nav-list{
     display: flex;
